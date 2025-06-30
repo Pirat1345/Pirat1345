@@ -15,4 +15,3 @@ Hi! I'm Pirat1345.<br><br>I'm passionate about hardware, software, and general P
 ---
 [![](https://visitcount.itsvg.in/api?id=Pirat1345&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
