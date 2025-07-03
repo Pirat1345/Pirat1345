@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Pirat1345.<br><br>I'm passionate about hardware, software, and general PC knowledge. While I'm still learning programming, I've already developed several Minecraft plugins.<br><br>I'm here on GitHub to expand my knowledge and improve my skills in programming and software development.<br><br>I enjoy working both in a team and independently – depending on the project's needs.<br><br>My goal is to grow, learn more, and eventually contribute to bigger projects.
 
-[Donate](coff.ee/pirat1345)
+Donate: coff.ee/pirat1345
 
 
 ## 🌐 Socials:
