@@ -7,6 +7,8 @@ Donate: [coff.ee/pirat1345](https://buymeacoffee.com/pirat1345)
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pirat1345) 
 [![Gravatar](https://img.shields.io/badge/Gravatar-%23DDDDDD.svg?logo=gravatar&logoColor=white)](https://gravatar.com/piratensohn4a7ec66e83)
+[![coffee.ee](https://img.shields.io/badge/coffee.ee-%232B2B2B.svg?logo=coffee&logoColor=white)](https://buymeacoffee.com/pirat1345)
+
 
 
 # 💻 Tech Stack:
